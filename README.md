@@ -1,5 +1,7 @@
 # yolov5-android-tflite
 
+Bu çalışmamızda yolov5 ile özel verilde eğtim yaptık ve eğitim sonucunda oluşan ağırlıkları kullanrak tensorflow lite apisinde çalıştırcaz. 
+
 pip install -r requirements.txt
 
 
